@@ -10,49 +10,49 @@
         [
           {
             "id": "a01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
           },
           {
             "id": "b01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
@@ -61,42 +61,42 @@
         [
           {
             "id": "b02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -105,49 +105,49 @@
         [
           {
             "id": "b03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "h03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -156,42 +156,42 @@
         [
           {
             "id": "c04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "h04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -200,49 +200,49 @@
         [
           {
             "id": "c05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "h05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "i05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -251,42 +251,42 @@
         [
           {
             "id": "d06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "h06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "i06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -295,49 +295,49 @@
         [
           {
             "id": "d07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
           },
           {
             "id": "e07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "h07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "i07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "j07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
@@ -358,28 +358,28 @@
           "",
           {
             "id": "a01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "b01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d01",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -393,35 +393,35 @@
           "",
           {
             "id": "a02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "b02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e02",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -433,42 +433,42 @@
           "",
           {
             "id": "a03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "b03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f03",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -478,49 +478,49 @@
         [
           {
             "id": "a04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
           },
           {
             "id": "b04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g04",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": true
@@ -530,42 +530,42 @@
           "",
           {
             "id": "d05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "c05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g05",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -577,35 +577,35 @@
           "",
           {
             "id": "c06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "d06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g06",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
@@ -619,28 +619,28 @@
           "",
           {
             "id": "d07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "e07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "f07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
           },
           {
             "id": "g07",
-            "image": "planes",
+            "image": "plains",
             "move_in": 1,
             "is_cover": false,
             "is_starting_position": false
