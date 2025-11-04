@@ -1,7 +1,12 @@
 
 const WarRoom = () => {
   return (
-    <div>WarRoom</div>
+    <div>
+      <h3>WarRoom</h3>
+      <div></div>
+      <p>list of campaigns</p>
+
+    </div>
   )
 }
 
