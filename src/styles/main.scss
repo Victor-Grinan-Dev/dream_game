@@ -1,0 +1,9 @@
+@use 'animations';
+@use 'base';
+@use 'mixins';
+@use 'reset';
+@use 'variables';
+
+@import '../layout/layout.scss';
+@import '../components/appComponents/navBar/navBar.scss';
+@import '../components/appComponents/sideBar/sideBar.scss';

@@ -1,10 +1,12 @@
-import { Link } from "react-router-dom"
+import { useSelector } from "react-redux";
 
 const NavBar = () => {
+  const currentTab = useSelector((state) => state.portal.currentTab);
   return (
       <div className="nav-bar">
-        <Link to={"war-room"}>WarRoom</Link> <span> </span>
-        <Link to={"my-army"}>MyArmy</Link>
+        <div>logo</div>
+        <h3>{currentTab}</h3>
+        <div></div>
       </div>
   )
 }

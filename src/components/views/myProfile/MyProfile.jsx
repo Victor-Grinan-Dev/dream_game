@@ -3,7 +3,9 @@ import { Link } from "react-router-dom"
 const MyProfile = () => {
   return (
     <div>
-      <h3>MyProfile</h3>
+      <p>user profile details</p>
+      <p>player stats</p>
+      <Link to="settings">Go to Settings</Link>
 
     </div>
   )
