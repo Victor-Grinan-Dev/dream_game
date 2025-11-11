@@ -4,6 +4,6 @@
 @use 'reset';
 @use 'variables';
 
-@import '../layout/layout.scss';
-@import '../components/appComponents/navBar/navBar.scss';
-@import '../components/appComponents/sideBar/sideBar.scss';
+@use '../layout/layout.scss';
+@use '../components/appComponents/navBar/navBar.scss';
+@use '../components/appComponents/sideBar/sideBar.scss';
