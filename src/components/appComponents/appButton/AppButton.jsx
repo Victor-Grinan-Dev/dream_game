@@ -1,8 +1,11 @@
 
-const AppButton = () => {
+
+const AppButton = ({caption, type="1", fx}) => {
   return (
-    <div>AppButton</div>
+    <div className={`btn-${type}`} onClick={fx}>
+      {caption}
+    </div>
   )
 }
 
-export default AppButton
+export default AppButton;
